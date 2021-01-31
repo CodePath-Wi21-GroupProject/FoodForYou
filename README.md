@@ -1,3 +1,5 @@
+# Product Spec Design
+
 ## 1. User Stories (Required and Optional)
 - **User Stories**
   * Search Bar
