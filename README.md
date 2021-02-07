@@ -40,3 +40,31 @@
   * displays options list ==> detailed page
 - Login page (stretch)
   * ==> flows into default tab after completion
+
+
+## Priorities
+
+popularity / recents page - more challenging
+ - not based on current user send
+ - local file system to save 
+ - to-do app
+ - recommendations (machine learning part).....
+  - api fetches recommendations for us
+  - github recommendations to get
+  
+  
+**Order of what to do:**
+- Search bar on top
+- Retrieving and displaying the list
+ * selecting takes you to details page
+
+- sort by feature on search bar
+- at the end, clean up visuals
+- List food
+ * Filters after we can retrieve/display the lists of recipe results
+ 
+ 
+ filters: min/maxsugar - min/maxcalories
+ 
+ url for recipe for extraction of info:
+ - GET https://api.spoonacular.com/recipes/extract
