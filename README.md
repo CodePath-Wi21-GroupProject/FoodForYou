@@ -68,3 +68,5 @@ popularity / recents page - more challenging
  
  url for recipe for extraction of info:
  - GET https://api.spoonacular.com/recipes/extract
+
+Video results will be a stretch goal
