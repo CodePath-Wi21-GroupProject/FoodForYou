@@ -74,4 +74,4 @@ Video results will be a stretch goal
 ----------
 # Figma Wireframe
 
-![]()
+![](/figmaFinalization.PNG)
