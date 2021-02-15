@@ -75,3 +75,33 @@ Video results will be a stretch goal
 # Figma Wireframe
 
 ![](/figmaFinalization.PNG)
+
+
+-----------
+## Models
+
+| Property    | Type        | Description |
+| ----------- | ----------- | ----------- |
+| description | String      | description of searched recipes |
+| instruction | String      | instructional text for creating meal |
+| ingredients | String      | list of ingredients for recipe |
+| authorId    | String      | Name of user who create recipe |
+| makeTime    | int         | Amount of time required to create meal |
+| recipeName  | String      | Recipe name |
+| cuisine     | String      | Type of cuisine (iee. culture origin) |
+| ... | ... | ... |
+
+Reference links for API:
+https://spoonacular.com/food-api/docs
+https://spoonacular.com/food-api/docs#Show-Images
+## API Endpoints
+
+| HTTP Verb   | Endpoint    | Description |
+| ----------- | ----------- | ----------- |
+| ```GET```   | /includeIngredients | Comma-separated list of ingredients |
+| ```GET```   | /author | Username of recipe author |
+| ```GET```   | /minCalories + /maxCalories | Calories of searched recipe |
+| ```GET```   | /maxReadyTime | Time required to prepare recipe |
+| ```GET```   | /maxSaturatedFat | Additional info; fat info per recipe |
+| ```GET```   | /cuisine | Retrieve detail of culture for dish (ie. italian, chinese, etc. |
+| ... | ... | ... |
