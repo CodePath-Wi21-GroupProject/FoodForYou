@@ -10,6 +10,7 @@ import android.view.MenuItem;
 import android.widget.Toast;
 
 import com.example.foodforyou.fragments.HomeFragment;
+import com.example.foodforyou.fragments.SearchFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
@@ -39,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
                     case R.id.action_search:
                         Toast.makeText(MainActivity.this, "Search!", Toast.LENGTH_SHORT).show();
-                        // fragment = new SearchFragment();
+                        fragment = new SearchFragment();
                         break;
                 }
                 //fragmentManager.beginTransaction().replace(R.id.fragment_container, fragment).commit();
