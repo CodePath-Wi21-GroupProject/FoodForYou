@@ -63,7 +63,9 @@ public class RecipeAdapter extends RecyclerView.Adapter<RecipeAdapter.ViewHolder
         }
 
         public void bind(Recipe recipe) {
-            // Flixter episod 3, 16:40
+            //TODO
+
+            // Flixter episode 3, 16:40
             // Use methods from Recipe.java
             // Finish Recipe.java
 
