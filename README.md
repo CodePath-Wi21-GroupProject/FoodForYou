@@ -78,7 +78,7 @@ Video results will be a stretch goal
 
 # Extra Sketches
 
-
+![](/Figma-Sketches.PNG)
 
 -----------
 ## Models
