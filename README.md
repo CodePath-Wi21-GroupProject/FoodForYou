@@ -76,6 +76,9 @@ Video results will be a stretch goal
 
 ![](/figmaFinalization.PNG)
 
+# Extra Sketches
+
+
 
 -----------
 ## Models
