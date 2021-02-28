@@ -7,10 +7,7 @@ Food4You is designed to allow people to search for plethoras of cuisines and rec
 ## 1. Stories
 - **User Stories (Required for MVP)**
   * Search Bar
-  * Search by category / specific keywords
-  * Popularity/trending page
-  * Recents page
-  * Infinite pagination
+  * Search by category / specific keywords / ingredients
   * Selecting recipes from search list
   * Viewing description pages of selected recipes
 
@@ -20,7 +17,9 @@ Food4You is designed to allow people to search for plethoras of cuisines and rec
   * View account info (a page)
   * Sort by popularity feature
   * Additional recipe facts (ie. nutrition, graphs, videos) displayed
-  
+  * Recents page
+  * Infinite pagination
+  * Popularity/trending page
   
 ## 2. Screen Archetypes
 - Login screen (stretch goal)
