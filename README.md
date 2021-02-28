@@ -91,6 +91,19 @@ Video results will be a stretch goal
 | cuisine     | String      | Type of cuisine (iee. culture origin) |
 | ... | ... | ... |
 
+-----------
+
+- Search Screen Feed
+  - (Read/GET) Query the user search in search tab and return list of results
+- Detail Screen
+  - (Read/GET) Query specific result and display deeper information
+- Explore Screen Feed
+  - (Read/GET) Populate with feed of random list of recipes
+
+| Method            | Example          |
+| ----------------- | ---------------- |
+| Query user input  | Fetching recipes |
+
 Reference links for API:
 https://spoonacular.com/food-api/docs
 https://spoonacular.com/food-api/docs#Show-Images
