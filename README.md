@@ -99,6 +99,8 @@ Video results will be a stretch goal
 
 -----------
 
+## Network
+
 - Search Screen Feed
   - (Read/GET) Query the user search in search tab and return list of results
 - Detail Screen
