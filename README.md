@@ -6,10 +6,11 @@ Food4You is designed to allow people to search for plethoras of cuisines and rec
 
 ## 1. Stories
 - **User Stories (Required for MVP)**
-  * Search Bar
-  * Search by category / specific keywords / ingredients
-  * Selecting recipes from search list
-  * Viewing description pages of selected recipes
+  [] Search Bar
+  [] Search by category / specific keywords / ingredients
+  [] Selecting recipes from search list
+  [] Viewing description pages of selected recipes
+  [x] Bottom Naviation Tabs
 
 - **Optional Stories (Optional Features)**
   * Login page
