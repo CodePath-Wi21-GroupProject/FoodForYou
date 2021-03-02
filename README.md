@@ -2,7 +2,7 @@
 
 ### App Overview
 
-Food4You is designed to allow people to search for plethoras of cuisines and recipes. The app's base implementation allows the user to explore a random feed of recipes or to specifically search by name or list of ingredients. Users will also be able to view descriptions of the recipes they deem interesting and can explore detailed information regarding their time to cook, required ingredients, nutritional facts, and more.
+FoodForYou is designed to allow people to search for plethoras of cuisines and recipes. The app's base implementation allows the user to explore a random feed of recipes or to specifically search by name or list of ingredients. Users will also be able to view descriptions of the recipes they deem interesting and can explore detailed information regarding their time to cook, required ingredients, nutritional facts, and more.
 
 ## 1. Stories
 - **User Stories (Required for MVP)**
