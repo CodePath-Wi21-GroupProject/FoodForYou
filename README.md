@@ -10,7 +10,7 @@ FoodForYou is designed to allow people to search for plethoras of cuisines and r
   - [ ] Search for a recipe by category / specific keywords / ingredients
   - [ ] Selecting recipes from search list
   - [ ] Viewing description pages of selected recipes
-  - [x] Bottom Naviation Tabs
+  - [x] Bottom Navigation Tabs
 
 - **Optional Stories (Optional Features)**
   * Login page
