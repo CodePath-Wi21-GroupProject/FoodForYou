@@ -6,8 +6,8 @@ FoodForYou is designed to allow people to search for plethoras of cuisines and r
 
 ## 1. Stories
 - **User Stories (Required for MVP)**
-  - [ ] Search Bar
-  - [ ] Search for a recipe by category / specific keywords / ingredients
+  - [x] Search Bar
+  - [x] Search for a recipe by category / specific keywords / ingredients
   - [ ] Selecting recipes from search list
   - [ ] Viewing description pages of selected recipes
   - [x] Bottom Navigation Tabs
