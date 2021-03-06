@@ -132,3 +132,4 @@ https://spoonacular.com/food-api/docs#Show-Images
 | ... | ... | ... |
 
 https://github.com/CodePath-Wi21-GroupProject/FoodForYou/blob/main/FoodForYouProgress.gif
+
