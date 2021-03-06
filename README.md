@@ -45,6 +45,9 @@ FoodForYou is designed to allow people to search for plethoras of cuisines and r
 - Login page (stretch)
   * ==> flows into default tab after completion
 
+## Issues Encountered
+- Trouble figuring out how to create API requests for search and recipe activities
+- Some troubles getting app to display correct format of recipe and search activities
 
 ## Priorities
 
