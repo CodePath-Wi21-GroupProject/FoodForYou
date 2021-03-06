@@ -128,5 +128,3 @@ https://spoonacular.com/food-api/docs#Show-Images
 | ```GET```   | /cuisine | Retrieve detail of culture for dish (ie. italian, chinese, etc. |
 | ... | ... | ... |
 
-![FoodForYouProgress](https://user-images.githubusercontent.com/76633717/110198772-b1ef7d80-7e09-11eb-8b65-cedef76c2df5.gif)
-
