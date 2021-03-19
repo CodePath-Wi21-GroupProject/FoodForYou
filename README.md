@@ -130,4 +130,4 @@ https://spoonacular.com/food-api/docs#Show-Images
 | ```GET```   | /maxSaturatedFat | Additional info; fat info per recipe |
 | ```GET```   | /cuisine | Retrieve detail of culture for dish (ie. italian, chinese, etc. |
 | ... | ... | ... |
-<img src='https://github.com/CodePath-Wi21-GroupProject/FoodForYou/blob/main/FoodForYouProgress.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/CodePath-Wi21-GroupProject/FoodForYou/blob/main/food_for_you_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
