@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                         fragment = new SearchFragment();
                         break;
                 }
-                //fragmentManager.beginTransaction().replace(R.id.fragment_container, fragment).commit();
+                fragmentManager.beginTransaction().replace(R.id.fragment_container, fragment).commit();
                 return true;
             }
         });
